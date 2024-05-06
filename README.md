@@ -17,8 +17,10 @@ set the contraints of the three button,three textviews,three progressbars and im
 declare and initialise the three buttons,three textviews,three progressbars and the imageview.
 enable the Onclicklistener so that the button is clickable.
 enable the progressbar to display the percentage fulled.
-add an increment at which the bar will inrease when a task is done.
+add an increment at which the bar will increase when a task is done.
+add an increment which shows another bar decreases when a task is done.
 set the imageview to display the images of each task.
 add the images that will be displayed for each task.
 
-github 
+github actions:
+
