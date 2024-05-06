@@ -23,4 +23,12 @@ set the imageview to display the images of each task.
 add the images that will be displayed for each task.
 
 github actions:
+configure simple work flows
+add a github folder,and a workflows sub-folder.
+add build.yml code into that sub-folder.
 
+youtube link: 
+
+reference list:
+Youtube:
+progressbar code: Coding Meet - 11 months ago [online] Available at: https://youtu.be/buQPvBAx-RM?si=D5jG06yZO_jsdys[Accessed:29 April 2024].
