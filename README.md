@@ -28,6 +28,7 @@ add a github folder,and a workflows sub-folder.
 add build.yml code into that sub-folder.
 
 youtube link: 
+https://youtu.be/laA9_hlzIAY?si=TV6lelCpuk8USfG
 
 reference list:
 Youtube:
